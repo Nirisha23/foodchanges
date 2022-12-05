@@ -1563,6 +1563,7 @@ body {
         background-color:#fff;
         overflow: hidden;
         margin-bottom: 16px;
+        transition: 0.5s;
     }
     .nav-link.active{
         min-height: 360px;
@@ -2032,6 +2033,7 @@ body {
         background-color:#fff;
         overflow: hidden;
         margin-bottom: 16px;
+        transition: 0.5s;
     }
     .nav-link.active{
         min-height: 360px;
@@ -2050,6 +2052,12 @@ body {
     .bar{
         display: block;
         float: right;
+    }
+    .nav-left{
+        width:16%;
+    }
+    .logo-image{
+        width:100%;
     }
     .wtsapp{
         width:24px;
@@ -2239,7 +2247,7 @@ body {
     }
     .abt-detail h5{
         color:var(--primary);
-        font-size:18px;
+        font-size:16px;
         font-weight: 400;
         color:var(--text);
     }
@@ -2299,8 +2307,7 @@ body {
     .form{
         margin-top:5%;
         text-align: center;
-        padding:0 50px;
-      
+        padding:0 16px;
     }
     
     .form h2{
