@@ -78,7 +78,7 @@ body {
     .nav-btn{
         color: #fff;
         background-color: var(--primary);
-        padding: 16px 32px;
+        padding: 8px 32px;
         border-radius: 5px;
         border: none;
         font-size: 16px;
