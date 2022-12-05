@@ -66,6 +66,9 @@ body {
         text-decoration: none;
         color:var(--text);
     }
+    .nav-link ul li a:hover{
+        color:var(--primary);
+    }
     .bar {
         display: none;
     }
@@ -566,6 +569,9 @@ body {
         font-size: 16px;
         text-decoration: none;
         color:var(--text);
+    }
+    .nav-link ul li a:hover{
+        color:var(--primary);
     }
     .bar {
         display: none;
@@ -1073,6 +1079,9 @@ body {
         font-size: 16px;
         text-decoration: none;
         color:var(--text);
+    }
+    .nav-link ul li a:hover{
+        color:var(--primary);
     }
     .bar {
         display: none;
